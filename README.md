@@ -1,0 +1,19 @@
+ACE3 ballistics compatibility for the Arma 3 weapon mod "JCA - HK433" by Grave: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3593321509)
+- Can be played with or without ACE3.
+- Default ballistic muzzle velocities according to Advanced Ballistics ICAO muzzle velocities (15°C, 1013.25 hPa, 0%).
+- Default ballistic airFriction based on Advanced Ballistics ICAO ballistic coefficients and drag models with the [ACE3 tool by Ruthberg](https://github.com/acemod/ACE3/blob/master/tools/generate_airfriction_config.py).
+- ACE3 "mass" according to manufacturers' data.
+- ACE3 values according to Heckler & Koch HK433 11", 14.5" barrel twist 1:7".
+- 5.56x45mm ammunition from ACE3 Ghitub: "B_556x45_Ball", standart 5.56x45mm NATO ball (SS109 / M855).
+- Add 5.56x45mm M855A1 from 2022/23 datas.
+- Add 5.56x45mm M193 from RUAG Ammotec AG.
+- Add 5.56x45mm Mk262 from ACE3 Ghitub.
+- Add 5.56x45mm Mk318 from ACE3 Ghitub.
+- Add 5.56x45mm M995 AP from ACE3 Ghitub.
+- Add 5.56x45mm ammunition Dual Purpose underwater subsonic (zeroing 100m or less recommanded).
+- Add "ACE_railHeightAboveBore" and "ACE_ScopeHeightAboveRail" values from ACE3 "checkScopes.sqf".
+- Effects and terminal ballistic based on vanilla Arma 3 values.
+
+Download link: [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3596199363)
+
+License: [Arma Public License Share Alike (APL-SA)](https://www.bohemia.net/community/licenses/arma-public-license-share-alike)
